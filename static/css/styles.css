@@ -212,3 +212,21 @@
  .release_date {
 	 font-weight: normal;
 }
+
+
+.thumbnail{
+    width:100px;
+    height:100px;
+}
+
+.movie-box{
+    background-color: #E5E4E2;
+    margin: 10px;
+    display:flex;
+    align-items: center;
+}
+
+.movie-box>p{
+    font-size: 25px;
+    margin:auto;
+}
